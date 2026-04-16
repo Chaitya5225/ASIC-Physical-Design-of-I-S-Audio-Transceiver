@@ -1,0 +1,11 @@
+# Ignore temporary OpenLane files
+runs/*/tmp/
+
+# Optional: Ignore massive log files 
+runs/*/logs/
+
+# Ignore compiled simulation objects or waveforms 
+*.vcd
+*.out
+*.o
+*.log

@@ -1,0 +1,19 @@
+Design Name: i2s_tx
+Run Directory: /openlane/designs/i2s_transmitter/runs/RUN_2026.02.18_06.12.00
+----------------------------------------
+
+Magic DRC Summary:
+Source: /openlane/designs/i2s_transmitter/runs/RUN_2026.02.18_06.12.00/reports/signoff/drc.rpt
+Total Magic DRC violations is 0
+----------------------------------------
+
+LVS Summary:
+Source: /openlane/designs/i2s_transmitter/runs/RUN_2026.02.18_06.12.00/logs/signoff/39-i2s_tx.lef.lvs.log
+Number of nets: 197                        |Number of nets: 197                        
+Design is LVS clean.
+----------------------------------------
+
+Antenna Summary:
+Source: /openlane/designs/i2s_transmitter/runs/RUN_2026.02.18_06.12.00/logs/signoff/41-arc.log
+Pin violations: 0
+Net violations: 0

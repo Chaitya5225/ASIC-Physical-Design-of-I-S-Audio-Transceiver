@@ -1,0 +1,28 @@
+
+61. Printing statistics.
+
+=== i2s_tx ===
+
+   Number of wires:                129
+   Number of wire bits:            159
+   Number of public wires:          27
+   Number of public wire bits:      57
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                125
+     sky130_fd_sc_hd__a31o_2         1
+     sky130_fd_sc_hd__and2_2         2
+     sky130_fd_sc_hd__and4_2         1
+     sky130_fd_sc_hd__buf_1         10
+     sky130_fd_sc_hd__dfrtp_2       23
+     sky130_fd_sc_hd__inv_2         49
+     sky130_fd_sc_hd__nand2_2        4
+     sky130_fd_sc_hd__nand4_2        1
+     sky130_fd_sc_hd__o221a_2       15
+     sky130_fd_sc_hd__o22ai_2        1
+     sky130_fd_sc_hd__or2_2         17
+     sky130_fd_sc_hd__xnor2_2        1
+
+   Chip area for module '\i2s_tx': 1201.152000
+
