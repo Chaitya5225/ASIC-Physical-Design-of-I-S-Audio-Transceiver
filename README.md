@@ -18,14 +18,14 @@ The Verilog RTL was pushed through the OpenLane automated ASIC flow.
 * **Synthesis & Routing:** Successfully routed using the Sky130 standard cell library.
 * **Signoff:** Layout verification and DRC checks were visualized using KLayout.
 
-![GDSII Layout in KLayout] 
+
 <img width="909" height="612" alt="image" src="https://github.com/user-attachments/assets/27590098-284e-47e6-af3a-ca2f8474d8f8" />
 
 
 ## 🎓 Makerchip TL-Verilog Port
 To make the synchronous logic and state machine easier to understand, the core transmitter logic was ported to TL-Verilog. 
 
-![Makerchip State Visualization]
+
 <img width="827" height="870" alt="image" src="https://github.com/user-attachments/assets/dd972fb8-ee2b-4bac-9cac-e3f5102913f5" />
 
 
