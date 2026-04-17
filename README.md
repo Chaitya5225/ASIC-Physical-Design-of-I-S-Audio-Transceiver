@@ -29,9 +29,6 @@ To make the synchronous logic and state machine easier to understand, the core t
 <img width="827" height="870" alt="image" src="https://github.com/user-attachments/assets/dd972fb8-ee2b-4bac-9cac-e3f5102913f5" />
 
 
-## 📺 Educational Content
-A full breakdown of the combinational and sequential circuit design behind this I2S implementation will be available here: `[Link to your upcoming YouTube video]`
-
 ## 🚀 How to Run
 To reproduce the physical design flow, ensure OpenLane is installed and run:
 `./flow.tcl -design i2s_transmitter`
